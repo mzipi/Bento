@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'Reminders',
+			icon: 'trello',
 			link: 'https://www.icloud.com/reminders/',
 		},
 		{
